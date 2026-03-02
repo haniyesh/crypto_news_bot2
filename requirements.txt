@@ -1,4 +1,8 @@
-python-telegram-bot==20.7
+```
+
+Find the line `scikit-learn==1.4.1` and change it to:
+```
+scikit-learn==1.4.2python-telegram-bot==20.7
 requests==2.31.0
 firebase-admin==6.4.0
 python-dotenv==1.0.1
