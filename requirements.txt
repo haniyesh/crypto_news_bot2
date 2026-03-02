@@ -1,5 +1,15 @@
 ```
 
+Find the broken line that looks like:
+```
+scikit-learn==1.4.2python-telegram-bot==20.7
+```
+
+Fix it to be two separate lines:
+```
+scikit-learn==1.4.2
+python-telegram-bot==20.7```
+
 Find the line `scikit-learn==1.4.1` and change it to:
 ```
 scikit-learn==1.4.2python-telegram-bot==20.7
