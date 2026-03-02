@@ -1,0 +1,3 @@
+EMBEDDING_DIM = 1536
+CONFIDENCE_THRESHOLD = 0.6
+DB_PATH = "data/system.db"
